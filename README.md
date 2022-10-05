@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="350"/>
   <div id="badges" >
   <a href="https://vk.com/just_bfun" target="_blank">
-    <img src="https://img.shields.io/badge/ВК-blue?logo=VK&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/ВК-blue?logo=VK&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"  height="38"/>
   </a>
   <a href="tg://resolve?domain=Xclusive13" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge" height="38"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=kkkutuzov&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=kkkutuzov&style=flat-square&color=blue" alt="" height="24"/>
 <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
