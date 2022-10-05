@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif" width="350"/>
   <div id="badges" >
-  <a href="https://vk.com/just_bfun">
+  <a href="https://vk.com/just_bfun" target="_blank">
     <img src="https://img.shields.io/badge/ВК-blue?logo=VK&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="tg://resolve?domain=Xclusive13">
+  <a href="tg://resolve?domain=Xclusive13" target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
