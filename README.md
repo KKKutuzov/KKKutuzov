@@ -27,7 +27,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :telescope: I work as a data analyst at Sberdevices <img src="https://sberdevices.ru/file/f5027a9d-58f9-4c13-af06-22500210b0e6/Salute_main_Sign.png" width="15"> 
  doing automatic speech recognition.
 
-- :mortar_board: I study at the Faculty of Mechanics and Mathematics of the Moscow State University, Department of Mathematical Statistics and Random Processes
+- :mortar_board: I study at the Faculty of Mechanics and Mathematics of the Moscow State University, Department of Mathematical Statistics and Stochastic Processes
 
 ---
 
